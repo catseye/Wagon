@@ -249,6 +249,11 @@ As of this writing, it remains unclear if Wagon is able to simulate a
 Turing machine or Loose Circular Brainfuck program directly rather than
 via a Tag system.
 
+Happy trails!  
+Chris Pressey  
+London, UK  
+August 13th or maybe August 16th or maybe even September 4th, 2019
+
 [Loose Circular Brainfuck]: https://esolangs.org/wiki/Loose_Circular_Brainfuck_(LCBF)
 [Carriage]: https://catseye.tc/node/Carriage
 [Equipage]: https://catseye.tc/node/Equipage
