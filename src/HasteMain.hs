@@ -1,17 +1,13 @@
 module Main where
 
-import Haste
-import Haste.DOM
-import Haste.Events
+import Haste.DOM (withElems, getValue, setProp)
+import Haste.Events (onEvent, MouseEvent(Click))
 
 import qualified Language.Wagon.ConcatEval as ConcatEval
 
-
 main = withElems ["prog", "result", "run-button"] driver
 
-driver [progElem, resultElem, runButtonElem] = do
-    onEvent runButtonElem Click $ \_ -> execute
-    where
-        execute = do
-            Just prog <- getValue progElem
-            setProp resultElem "textContent" $ show $ ConcatEval.run prog
+driver [progElem, resultElem, runButtonElem] =
+    onEvent runButtonElem Click $ \_ -> do
+        Just prog <- getValue progElem
+        setProp resultElem "textContent" $ show $ ConcatEval.run prog
