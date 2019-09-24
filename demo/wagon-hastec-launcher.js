@@ -40,7 +40,7 @@ function launch(config) {
   var select = makeSelect(controlPanel, "example program:", examplePrograms, function(option) {
     document.getElementById('prog').value = option.contents;
   });
-  // selectOptionByText(select, "reverse0.pail");
+  selectOptionByText(select, "reverse0.pail");
 }
 
 launch({ container: document.getElementById('installation') });
