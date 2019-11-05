@@ -1,6 +1,14 @@
 Wagon
 =====
 
+_Try it online_ [@ catseye.tc](https://catseye.tc/installation/Wagon)
+| _Wiki entry_ [@ esolangs.org](https://esolangs.org/wiki/Wagon)
+| _See also:_ [Carriage](https://github.com/catseye/Carriage)
+∘ [Equipage](https://github.com/catseye/Equipage)
+∘ [Oxcart](https://github.com/catseye/Oxcart)
+
+- - - -
+
 Introduction
 ------------
 
