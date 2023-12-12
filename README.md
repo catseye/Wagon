@@ -3,9 +3,9 @@ Wagon
 
 _Try it online_ [@ catseye.tc](https://catseye.tc/installation/Wagon)
 | _Wiki entry_ [@ esolangs.org](https://esolangs.org/wiki/Wagon)
-| _See also:_ [Carriage](https://github.com/catseye/Carriage#readme)
-∘ [Equipage](https://github.com/catseye/Equipage#readme)
-∘ [Oxcart](https://github.com/catseye/Oxcart#readme)
+| _See also:_ [Carriage](https://codeberg.org/catseye/Carriage#carriage)
+∘ [Equipage](https://codeberg.org/catseye/Equipage#equipage)
+∘ [Oxcart](https://codeberg.org/catseye/Oxcart#oxcart)
 
 - - - -
 
